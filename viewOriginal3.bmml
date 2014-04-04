@@ -1,0 +1,195 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1308" measuredH="504" mockupW="1172" mockupH="487">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="136" y="17" w="1172" h="487" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <minimize>true</minimize>
+        <text>Form%20Simulasi%20Transaksi</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::FieldSet" x="595" y="44" w="708" h="202" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Skema%20Partisi</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::FieldSet" x="595" y="250" w="708" h="223" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Skema%20Relational%20Database</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::DataGrid" x="606" y="80" w="215" h="135" measuredW="212" measuredH="138" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%2C%20Request%2C%20Frekuensi%2CWaktu%0A1%2C%20Pilihan%201%2C%20....%2C....%0A2%2CPilihan%202%2C%20....%2C....%0A....%2C..................%2C......%2C....%0An%2C.................%2C.........%2C....</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="606" y="57" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Percobaan%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="606" y="218" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%20Waktu%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::DataGrid" x="843" y="77" w="215" h="135" measuredW="212" measuredH="138" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%2C%20Request%2C%20Frekuensi%2CWaktu%0A1%2C%20Pilihan%201%2C%20....%2C....%0A2%2CPilihan%202%2C%20....%2C....%0A....%2C..................%2C......%2C....%0An%2C.................%2C.........%2C....</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="843" y="54" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Percobaan%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="843" y="215" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%20Waktu%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::DataGrid" x="1078" y="77" w="215" h="135" measuredW="212" measuredH="138" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%2C%20Request%2C%20Frekuensi%2CWaktu%0A1%2C%20Pilihan%201%2C%20....%2C....%0A2%2CPilihan%202%2C%20....%2C....%0A....%2C..................%2C......%2C....%0An%2C.................%2C.........%2C....</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="1078" y="54" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Percobaan%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="1078" y="215" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%20Waktu%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::DataGrid" x="606" y="299" w="215" h="135" measuredW="212" measuredH="138" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%2C%20Request%2C%20Frekuensi%2CWaktu%0A1%2C%20Pilihan%201%2C%20....%2C....%0A2%2CPilihan%202%2C%20....%2C....%0A....%2C..................%2C......%2C....%0An%2C.................%2C.........%2C....</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="606" y="276" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Percobaan%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="606" y="437" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%20Waktu%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::DataGrid" x="842" y="298" w="215" h="135" measuredW="212" measuredH="138" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%2C%20Request%2C%20Frekuensi%2CWaktu%0A1%2C%20Pilihan%201%2C%20....%2C....%0A2%2CPilihan%202%2C%20....%2C....%0A....%2C..................%2C......%2C....%0An%2C.................%2C.........%2C....</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="842" y="275" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Percobaan%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="842" y="436" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%20Waktu%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::DataGrid" x="1077" y="298" w="215" h="135" measuredW="212" measuredH="138" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%2C%20Request%2C%20Frekuensi%2CWaktu%0A1%2C%20Pilihan%201%2C%20....%2C....%0A2%2CPilihan%202%2C%20....%2C....%0A....%2C..................%2C......%2C....%0An%2C.................%2C.........%2C....</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="1077" y="275" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Percobaan%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="1077" y="436" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%20Waktu%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::FieldSet" x="336" y="44" w="255" h="429" measuredW="200" measuredH="170" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::DataGrid" x="357" y="80" w="215" h="135" measuredW="199" measuredH="108" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%2C%20Percobaan%2C%20Total%20Waktu%0A1%2C%20Percobaan%201%2C%20....%0A2%2C%20Percobaan%202%2C%20....%0A3%2C%20Percobaan%203%2C%20....</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="357" y="59" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Percobaan%20Skema%20Partisi</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="357" y="218" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rata-rata%20waktu%20akses%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::DataGrid" x="357" y="298" w="215" h="135" measuredW="199" measuredH="108" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%2C%20Percobaan%2C%20Total%20Waktu%0A1%2C%20Percobaan%201%2C%20....%0A2%2C%20Percobaan%202%2C%20....%0A3%2C%20Percobaan%203%2C%20....</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="357" y="275" w="-1" h="-1" measuredW="221" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Percobaan%20Skema%20Relational%20Databse</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="357" y="436" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rata-rata%20waktu%20akses%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::FieldSet" x="145" y="44" w="188" h="429" measuredW="200" measuredH="170" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Button" x="160" y="129" w="162" h="24" measuredW="116" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Detail%20Transaksi</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Button" x="160" y="184" w="162" h="24" measuredW="56" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Grafik</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="160" y="82" w="162" h="24" measuredW="62" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Proses</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::CallOut" x="160" y="73" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::CallOut" x="160" y="123" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::CallOut" x="160" y="177" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="160" y="435" w="162" h="24" measuredW="104" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tutup%20Aplikasi</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::CallOut" x="160" y="428" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <text>4</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

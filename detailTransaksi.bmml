@@ -1,0 +1,26 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1267" measuredH="498" mockupW="1172" mockupH="487">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="95" y="11" w="1172" h="487" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <minimize>true</minimize>
+        <text>Form%20Detail%20Transaksi</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="103" y="43" w="569" h="386" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Detail%20Transaksi%20Pada%20Seluruh%20Percobaan</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="682" y="43" w="577" h="386" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hasil</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="1191" y="438" w="-1" h="-1" measuredW="68" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kembali</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
